@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Ayushcoader7/leet-code/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushcoader7/leet-code/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
