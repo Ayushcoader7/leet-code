@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Ayushcoader7/leet-code/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Ayushcoader7/leet-code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ayushcoader7/leet-code/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayushcoader7/leet-code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ayushcoader7/leet-code/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,6 +24,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayushcoader7/leet-code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ayushcoader7/leet-code/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
