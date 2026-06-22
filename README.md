@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayushcoader7/leet-code/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Ayushcoader7/leet-code/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ayushcoader7/leet-code/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Ayushcoader7/leet-code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
