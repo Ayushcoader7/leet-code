@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ayushcoader7/leet-code/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Ayushcoader7/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ayushcoader7/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayushcoader7/leet-code/tree/master/0217-contains-duplicate) |
 ## Binary Search
@@ -69,6 +70,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ayushcoader7/leet-code/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ayushcoader7/leet-code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ayushcoader7/leet-code/tree/master/0231-power-of-two) |
 ## Recursion
