@@ -35,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/Ayushcoader7/leet-code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ayushcoader7/leet-code/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/Ayushcoader7/leet-code/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/Ayushcoader7/leet-code/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -52,4 +53,9 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayushcoader7/leet-code/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Ayushcoader7/leet-code/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Ayushcoader7/leet-code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
